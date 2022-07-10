@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416234200363",
+    "project_id": "interview-1274b",
+    "storage_bucket": "interview-1274b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416234200363:android:ea817e1fe9296e97a4b96e",
+        "android_client_info": {
+          "package_name": "om.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416234200363-tbekujd5n80rd1ilhjcuoodu6s8rc3be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "om.example.firebase_demo",
+            "certificate_hash": "7f518f61a1d486464c9039c3d0a59bacb40bb2f8"
+          }
+        },
+        {
+          "client_id": "416234200363-qganlvufdstugevmscp0polk3jena79n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACC-4oFbGCk1OoIFNN_Eg-UnPCvxk4nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416234200363-qganlvufdstugevmscp0polk3jena79n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
